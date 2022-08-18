@@ -53,7 +53,7 @@
 
 - A notificação deve ter um status de lida ou não lida para que o prestador possa controlar;
 
-# Agendamento de servços
+# Agendamento de serviços
 
 **RF**
 
